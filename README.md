@@ -7,7 +7,7 @@ Text4Shell RCE Python3 version
 Unauth RCE in InvokeAI. The vulnerability was discovered by @jackfromeast. Here is a Python3 version
 
 ## Node JS
-### EJS v3.1.9 (valid from EJS v2.6.2 to v3.1.9)
+### EJS v3.1.9 RCE (valid from EJS v2.6.2 to v3.1.9)
 [Chain of Unrestricted Render Options](https://github.com/apostolovd/PoCs/blob/main/EJS/Chain%20of%20Unrestricted%20Render%20Options.pdf)
 
 ### safe-eval bypass
