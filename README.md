@@ -1,5 +1,8 @@
 # PoCs
 
+## CVE 2022-42889
+Text4Shell RCE Python3 version
+
 ## CVE 2024-12029
 Unauth RCE in InvokeAI. The vulnerability was discovered by @jackfromeast. Here is a Python3 version
 
