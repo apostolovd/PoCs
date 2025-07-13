@@ -1,5 +1,8 @@
 # PoCs
 
+## CVE-2025-32432
+RCE PoC in CraftCMS
+
 ## CVE 2022-42889
 Text4Shell RCE Python3 version
 
