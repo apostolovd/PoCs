@@ -1,5 +1,8 @@
 # PoCs
 
+... too lazy to keep it up-to-date
+
+
 ## CVE-2025-32432
 RCE PoC in CraftCMS
 
